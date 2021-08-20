@@ -27,9 +27,4 @@
     </EmbeddedResource>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Components\" />
-    <Folder Include="Views\Shared\Components\CategoryMenu\" />
-  </ItemGroup>
-
 </Project>
